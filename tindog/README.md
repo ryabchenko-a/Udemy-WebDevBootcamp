@@ -1,4 +1,4 @@
-# Personal Website v1
+# tindog
 This folder contains the source code for tindog Homepage. You guessed it right, tindog is tinder for dogs!
 
 ## Running Localy
