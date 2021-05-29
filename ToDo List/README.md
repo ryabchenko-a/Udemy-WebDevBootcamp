@@ -1,5 +1,8 @@
 # ToDo List
-This folder contains the source code for ToDo List app. This app allows to create custom ToDO lists, adding and deleting items from these lists.
+This folder contains the source code for ToDo List app. This app allows to create custom ToDO lists, adding and deleting items from these lists.  
+
+To create a custom list, add /nameOfTheList to the address in your address bar. To create a new item, type the name of the item and press "New item".
+To delete an item, click on the checkbox next to the item you want to delete.
 
 # Running Localy
 This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here]().
