@@ -23,7 +23,7 @@ For each project I only specified a technology that was new when I created the p
 7. [Secrets](https://github.com/ryabchenko-a/Udemy-WebDevBootcamp/tree/main/Secrets) - Authorisation/Security
 8. [Keeper App](https://github.com/ryabchenko-a/Udemy-WebDevBootcamp/tree/main/Keeper%20App) - React
 
-Detailed documentation and instruction for running localy for these projects can be found in their corresponding folders.
+Detailed documentation and instruction for running projects localy can be found in the corresponding folders.
 
 ## Feedback
 
