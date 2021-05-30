@@ -1,4 +1,4 @@
-# Secrets
+# Keeper App
 This folder contains the source code for Keeper App. This app allows you to create and delete notes.  
 
 Managing notes with Keeper is easier than ever - to create one, simply write the title, the body, and press on the plus sign. 
