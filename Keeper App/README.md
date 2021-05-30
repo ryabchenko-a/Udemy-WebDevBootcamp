@@ -13,8 +13,8 @@ To run the app localy:
 3. Install dependencies by running the command below in your terminal  
   `cd [PATH TO THE APP]`  
   `npm install`
-4. Start the server with nodemon by running the command below in your terminal  
-  `nodemon app.js `
+4. Start the server with npm by running the command below in your terminal  
+  `npm start`
 5. Open the app by typing `localhost:3000` in your browser.
 
 If you want to deploy it on the web, you will need to deploy the database and the app on the respective hosts. To do so, follow these guidelines
