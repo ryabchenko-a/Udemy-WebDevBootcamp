@@ -2,7 +2,8 @@
 
 [![App Brewery logo](https://user-images.githubusercontent.com/61123874/120060271-2461a980-c057-11eb-9bc5-e902d4ea1c56.png)](https://www.londonappbrewery.com/)
 
-This repository contains the source code for projects I completed during The Complete Web Development Bootcamp 2020. 
+This repository contains the source code for projects I completed during The Complete Web Development Bootcamp 2020.  
+To download a single folder (single project), you can use [this tool](https://download-directory.github.io/) - simply copy the url of the folder and download it!
 
 ## Overview 
 The course teaches the fundamentals of the most important web development tools and on the level sufficient to start development industry valuable projects. 
