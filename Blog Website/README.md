@@ -4,7 +4,7 @@ This folder contains the source code for Blog Website. This website allows to cr
 To create a new post, add /compose to the address in your address bar. To read a specific post, click on "Read more" next to it.
 
 # Running Localy
-This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here]().
+This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here](https://blog-website-udemy.herokuapp.com/).
 
 To run the app localy:
 1. Download the folder
