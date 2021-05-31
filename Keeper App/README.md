@@ -5,7 +5,7 @@ Managing notes with Keeper is easier than ever - to create one, simply write the
 To delete a note, simply click on the respective bin icon. 
 
 # Running Localy
-This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here]().
+This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here](https://codesandbox.io/s/keeper-app-udemy-nlcpt?file=/package.json).
 
 To run the app localy:
 1. Download the folder
