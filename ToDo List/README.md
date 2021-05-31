@@ -1,4 +1,5 @@
 # ToDo List
+![ToDo List](https://user-images.githubusercontent.com/61123874/120181938-025e5780-c20e-11eb-9ed1-3ce9a017105a.png)
 This folder contains the source code for ToDo List app. This app allows to create custom ToDO lists, adding and deleting items from these lists.  
 
 To create a custom list, add /nameOfTheList to the address in your address bar. To create a new item, type the name of the item and press "New item".
@@ -9,7 +10,7 @@ This is folder contains the version of app that is meant to be running on the lo
 
 To run the app localy:
 1. Download the folder
-2. [Install mongoDB database]() and [activate it]()
+2. [Install mongoDB database](https://docs.mongodb.com/manual/installation/) and run it
 3. Install dependencies by running the command below in your terminal
   `cd [PATH TO THE APP] 
   npm install`
@@ -18,7 +19,7 @@ To run the app localy:
 5. Open the app by typing `localhost:3000` in your browser.
 
 If you want to deploy it on the web, you will need to deploy the database and the app on the respective hosts. To do so, follow these guidelines
-- [deploying your website with Heroku]() and [deploying your database with mongoDB Atlas]().
+- [deploying your website with Heroku](https://devcenter.heroku.com/categories/deployment) and [deploying your database with mongoDB Atlas](https://docs.atlas.mongodb.com/getting-started/).
 
 # Feedback
 Shall you have any questions or find any inconsistencies in code, please contact me at LinkedIn or open an issue.
