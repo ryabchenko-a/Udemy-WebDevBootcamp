@@ -5,7 +5,7 @@ To create a custom list, add /nameOfTheList to the address in your address bar. 
 To delete an item, click on the checkbox next to the item you want to delete.
 
 # Running Localy
-This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here]().
+This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here](https://todo-list-udemy.herokuapp.com/).
 
 To run the app localy:
 1. Download the folder
