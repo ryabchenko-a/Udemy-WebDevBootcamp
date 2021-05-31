@@ -1,4 +1,5 @@
 # Dicee
+![Dicee](https://user-images.githubusercontent.com/61123874/120179099-7696fc00-c20a-11eb-91db-f0ebe0b364a0.png)
 This folder contains the source code for Dicee. Dicee is a game for two players where the winner is determined by how much points this player 
 has on the Dice surface facing upwards after roll.
 
