@@ -4,7 +4,7 @@ This folder contains the source code for Secrets App. This website allows to ano
 To share a secret, you need to create an account or sign up via google. 
 
 # Running Localy
-This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here]().
+This is folder contains the version of app that is meant to be running on the local server. You can also look at a web version [here](https://secrets-udemy.herokuapp.com/).
 
 To run the app localy:
 1. Download the folder
@@ -14,10 +14,13 @@ To run the app localy:
   `npm install`
 4. Start the server with nodemon by running the command below in your terminal  
   `nodemon app.js `
-5. Open the app by typing `localhost:3000` in your browser.
+5. Open the app by typing `localhost:3000` in your browser.  
+
+
+Note: the app uses Angela Yu (instructor) google OAuth credentials.
 
 If you want to deploy it on the web, you will need to deploy the database and the app on the respective hosts. To do so, follow these guidelines
-- [deploying your website with Heroku]() and [deploying your database with mongoDB Atlas]().
+- [deploying your website with Heroku]() and [deploying your database with mongoDB Atlas](). Shall you want to change OAuth credentials, look at [this article]().
 
 # Feedback
 Shall you have any questions or find any inconsistencies in code, please contact me at LinkedIn or open an issue.
