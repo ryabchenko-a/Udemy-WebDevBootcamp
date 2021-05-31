@@ -1,4 +1,6 @@
 # Simon Game
+![Simon Game](https://user-images.githubusercontent.com/61123874/120181802-da6ef400-c20d-11eb-9d1f-5f285e3aee49.png)
+
 This folder contains the source code for [Simon Game](https://en.wikipedia.org/wiki/Simon_(game)). 
 The idea behind Simon Game is to remember and replicate the growing pattern of buttons. You can find the official game rules [here](https://www.ultraboardgames.com/simon/game-rules.php).
 
